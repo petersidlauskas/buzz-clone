@@ -10,27 +10,27 @@ const questions = [
                 text: "Queens Center Mall",
                 image: "https://assets.macerichepicenter.com/FileManager/Corporate/Albums/Macerich/526/Queens-Center-4_1200x561.jpg",
                 alt: "Photo of QCM",
-                credit: "Gay Man "
+                credit: "John "
 
             },
             {
                 text: "Indoor Ten",
                 image: "https://quartersnacks.com/wp-content/uploads/2015/02/zoo-york-todd-jordan-2003.jpg",
-                alt: "Photo of the Empire State building during daytime",
-                credit: "Straight Man"
+                alt: "Indoor 10",
+                credit: "Greg"
 
             },
             {
                 text: "ABC Ledges",
                 image: "https://storage.googleapis.com/fsscs1/images/large/6yhqgtmlgcf1scpcaldq7oxxvf2yq2mp.jpg",
-                alt: "Photo of the Empire State building during daytime",
+                alt: "ABC Ledges",
                 credit: "Ian Ried "
 
             },
             {
                 text: "Blue Park",
                 image: "https://quartersnacks.com/wp-content/uploads/2016/03/bluepark2.jpg",
-                alt: "Photo of the Empire State building during daytime",
+                alt: "Blue Park",
                 credit: "Todd "
 
             }
@@ -45,13 +45,13 @@ const questions = [
                 text: "Dollar Dumplings",
                 image: "https://media.timeout.com/images/100718237/image.jpg",
                 alt: "Dumplings",
-                credit: "Gayer Man"
+                credit: "Kansas"
             },
             {
                 text: "Little Ceasers Hot and Ready",
                 image: "https://www.mashed.com/img/gallery/little-caesars-hot-and-ready-what-to-know-before-ordering/l-intro-1638657039.jpg",
                 alt: "Pizza",
-                credit: "Insane Persone"
+                credit: "Insane Person"
             },
             {
                 text: "Warm Beer",
@@ -112,15 +112,15 @@ const answers = [
     },
     {
         combination: ["Indoor Ten", "Cum Sock", "Psychotic minimalist apartment"],
-        text: "Retard Cheese",
+        text: "Stupid Cheese",
         image: "https://images.squarespace-cdn.com/content/v1/583c906ebe659429d1106265/1607444814840-YFAOTC5HK54FE8L4F2FA/StinkyChesseMakeMeRun_Template_1024x1024.jpg",
-        alt: "Retard Cheese"
+        alt: "Stupid Cheese"
     },
     {
         combination: ["ABC Ledges", "Dollar Dumplings", "Stupid Tiny Home"],
-        text: "Gay Cheese",
+        text: "Durp Cheese",
         image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/facbad8d-a799-417b-bdc1-e0bba70677be/del6l65-87397be1-4524-4ea0-99bb-93d03d5a9f52.png/v1/fill/w_350,h_347,q_80,strp/gay_cheese__by_famdonn_del6l65-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzQ3IiwicGF0aCI6IlwvZlwvZmFjYmFkOGQtYTc5OS00MTdiLWJkYzEtZTBiYmE3MDY3N2JlXC9kZWw2bDY1LTg3Mzk3YmUxLTQ1MjQtNGVhMC05OWJiLTkzZDAzZDVhOWY1Mi5wbmciLCJ3aWR0aCI6Ijw9MzUwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Vhz4KzBHykXC9YuN1TvCSElMxo9DVDECH3tlV4VY8Bk",
-        alt: "Gay Cheese"
+        alt: "Durp Cheese"
     },
     {
         combination: ["Blue Park", "Little Ceasers Hot and Ready", "Bushwick shithole"],
